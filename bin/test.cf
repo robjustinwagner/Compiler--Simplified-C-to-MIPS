@@ -1,0 +1,63 @@
+bool z;
+bool x;
+int a;
+bool b;
+//void c;
+
+void f(int k, bool c, int s, bool h, int y) {
+	int p;
+	int j;
+	int l;
+	bool m;
+	m = true;
+	a = 2;
+	h = false;
+	cout << m;
+	return;
+	a = 1 + 2;
+	s = s + 4;
+	cin >> a;
+	k++;
+	k--;
+	if(a > k) {
+		c = true;
+	}
+	if(a < k) {
+		a = k+1;
+	}
+	if(a <= k) {
+		h = !c;
+	}
+	if(a >= k) {
+		a = -k;
+	}
+	if(a != k) {
+		a = k/3;
+	}
+	if(a == k) {
+		a = k*2;
+	}
+	if(c || z) {
+	    a = k-1;
+	}
+	if(c && z) {
+		a = k + 1;
+	} else {
+		h = false;
+	}
+	while(1 == 0) {
+	
+	}
+	
+}
+
+int k(int j) {
+	return 9;
+}
+
+void main() {
+	int d;
+	bool q;
+	d = 2;
+	k(d);
+}
